@@ -3824,13 +3824,6 @@
 
 		/* Box */
 
-			.box {
-				border-radius: 0;
-				box-shadow: none;
-				margin: 1em 0 0 0;
-				padding: 3em 1em !important;
-			}
-
 				.box.features .features-row section {
 					margin: 3em 0 0 0 !important;
 					padding: 3em 0 0 0 !important;
@@ -3860,12 +3853,6 @@
 
 			#banner {
 				padding: 5em 3em 4em 3em;
-			}
-
-		/* Main */
-
-			#main > .box:first-child {
-				margin-top: 0;
 			}
 
 		/* CTA */
