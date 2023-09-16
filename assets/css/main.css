@@ -3829,16 +3829,6 @@
 					padding: 3em 0 0 0 !important;
 				}
 
-				.box .image.featured {
-					border-radius: 0;
-					margin-left: -1em;
-					width: calc(100% + 2em);
-				}
-
-					.box .image.featured img {
-						border-radius: 0 !important;
-					}
-
 					.box .image.featured:first-child {
 						margin-bottom: 3em;
 						margin-top: -3em;
