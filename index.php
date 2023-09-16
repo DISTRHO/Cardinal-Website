@@ -28,24 +28,24 @@ include_once('inc_header.php')
 				<section class="box special features">
 					<div class="features-row">
 						<section>
-							<span class="icon solid major fa-bolt accent2"></span>
+							<span class="icon major brands fa-osi accent3"></span>
 							<h3>Open-Source</h3>
 							<p>Created first and foremost as a way to have Rack as a proper open-source audio plugin.</p>
 						</section>
 						<section>
-							<span class="icon solid major fa-chart-area accent3"></span>
+							<span class="icon major solid fa-box accent4"></span>
 							<h3>Self-contained</h3>
 							<p>Cardinal does not load any external modules, everything is built-in.</p>
 						</section>
 					</div>
 					<div class="features-row">
 						<section>
-							<span class="icon solid major fa-lock accent5"></span>
+							<span class="icon major accent1"><img src="https://lv2plug.in/images/logo.svg" alt="" style="width: 3.5em;height: 3.5em;vertical-align: middle;"></span>
 							<h3>LV2 support</h3>
 							<p>Supporting real CV ports to and from the plugin, for integration with other modular systems.</p>
 						</section>
 						<section>
-							<span class="icon solid major fa-cloud accent4"></span>
+							<span class="icon major brands fa-ubuntu accent2"></span>
 							<h3>Multi-platform</h3>
 							<p>Supporting more than just the basic 3 desktop operating systems.</p>
 						</section>
