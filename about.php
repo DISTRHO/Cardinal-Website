@@ -17,7 +17,7 @@
 					<p>Cardinal does not load external modules and does not connect to the official Rack library/store.<br>
 					All VCV branding has been removed (to the best of our knowledge) in order to avoid any trademark issues.</p>
 					<div class="row">
-						<div class="row-6 row-12-mobilep">
+						<div class="row-6 row-12-mobilep" id="Status">
 							<h3>Current status</h3>
 							<p>Cardinal should be considered stable, if you spot any bugs please report them on GitHub.<br>
 							Currently the following should be noted:</p>
@@ -27,7 +27,7 @@
 							<li>Windows 32bit builds still have a few problematic modules <a href="https://github.com/DISTRHO/Cardinal/issues/80" target="_blank">#80</a></li>
 							</ul>
 						</div>
-						<div class="row-6 row-12-mobilep">
+						<div class="row-6 row-12-mobilep" id="Why">
 							<h3>Why</h3>
 							<p>Cardinal was created first and foremost as a way to have Rack as a <strong>proper open-source audio plugin</strong>.<br>
 							A proper audio plugin should be self-contained as much as possible, as to not interfere with the DAW/Host.
@@ -55,7 +55,7 @@
 							<li>It is fun :)</li>
 							</ul>
 						</div>
-						<div class="row-6 row-12-mobilep">
+						<div class="row-6 row-12-mobilep" id="VsRackPro">
 							<h3>Vs. Rack Pro</h3>
 							<p>It needs to be said that Cardinal project and its author(s) do not wish anything bad to the original/official Rack project.<br>
 							In fact, Cardinal wouldn't exist if not for Rack v2 release. (which has many needed things to make a plugin version work)</p>
@@ -63,7 +63,7 @@
 							It is likely most people will prefer to use Rack Pro for its official support and its big module collection (including commercial ones).</p>
 							<p>A feature comparison between Cardinal and Rack Pro can be seen <a href="https://github.com/DISTRHO/Cardinal/blob/main/docs/DIFFERENCES.md" target="_blank">here</a>.</p>
 						</div>
-						<div class="row-6 row-12-mobilep">
+						<div class="row-6 row-12-mobilep" id="License">
 							<h3>License</h3>
 							<p>Cardinal is licensed under GPLv3+, see <a href="https://github.com/DISTRHO/Cardinal/blob/main/LICENSE" target="_blank">LICENSE</a> for more details.<br>
 							An overview of the included code and linked submodules can be seen <a href="https://github.com/DISTRHO/Cardinal/blob/main/docs/LICENSES.md#code-license--binary" target="_blank">here</a>.</p>
