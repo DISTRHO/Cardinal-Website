@@ -1,4 +1,4 @@
-<?php include_once('inc_header.php') ?>
+<?php include_once('../inc_header.php') ?>
 
 			<!-- Main -->
 				<section id="main" class="container">
@@ -395,4 +395,4 @@
 					</div>
 				</section>
 
-<?php include_once('inc_footer.php') ?>
+<?php include_once('../inc_footer.php') ?>
