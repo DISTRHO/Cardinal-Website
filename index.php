@@ -60,7 +60,7 @@ include_once('inc_header.php')
 							<h3>1079 included modules</h3>
 							<p>A total of 1079 modules from 73 different authors/brands.</p>
 							<ul class="actions special">
-								<li><a href="/modules.php" class="button alt">Learn more</a></li>
+								<li><a href="/modules" class="button alt">Learn more</a></li>
 							</ul>
 						</section>
 
@@ -72,7 +72,7 @@ include_once('inc_header.php')
 							<h3>3 Plugin variants</h3>
 							<p>A "main" variant plus Synth and FX.</p>
 							<ul class="actions special">
-								<li><a href="/variants.php" class="button alt">Learn more</a></li>
+								<li><a href="/variants" class="button alt">Learn more</a></li>
 							</ul>
 						</section>
 

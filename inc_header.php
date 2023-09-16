@@ -19,13 +19,14 @@
 				<nav id="nav">
 					<ul>
 						<li><a href="/">Home</a></li>
+						<li><a href="/live">Try Live</a></li>
 						<li>
 							<a href="#" class="icon solid fa-angle-down">Pages</a>
 							<ul>
-								<li><a href="/about.php">About Cardinal</a></li>
-								<li><a href="/modules.php">Included modules</a></li>
-								<li><a href="/variants.php">Plugin variants</a></li>
-								<li><a href="/screenshots.php">Screenshots</a></li>
+								<li><a href="/about">About Cardinal</a></li>
+								<li><a href="/modules">Included modules</a></li>
+								<li><a href="/variants">Plugin variants</a></li>
+								<li><a href="/screenshots">Screenshots</a></li>
 							</ul>
 						</li>
 					</ul>
