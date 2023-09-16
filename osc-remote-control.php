@@ -36,16 +36,18 @@
 							<h4><b>/hello</b></h4>
 							<p>Sending a <code>/hello</code> message will make Cardinal reply back with another hello, using <code>/resp</code> path and "hello" message.<br />
 							Useful when testing if the connection works.</p>
+
 							<h4><b>/host-param i:port f:value</b></h4>
 							<p>Sending a <code>/host-param</code> message will set a port value of the "Host Params" module.<br />
 							The port index starts from 0.</p>
 							<p>There is no reply back from Cardinal.</p>
+
 							<h4><b>/param h:moduleId i:paramId f:value</b></h4>
 							<p>Sending a <code>/param</code> message will change the parameter value of any loaded module.<br />
-(TODO: describe a way to find the module and param id)<br />
-
+							(TODO: describe a way to find the module and param id)</p>
 							<p>There is no reply back from Cardinal.</p>
 							<p>NOTE: the first argument must of be int64 type, as regular 32-bit integer is not enough to fit the whole range of values used inside Cardinal/Rack.</p>
+
 							<h4><b>/load b:patch-blob</b></h4>
 							<p>Sending a <code>/load</code> message will load the patch file contained in the message.<br />
 							Patch contents must be in compressed format, not plain-text json.</p>
@@ -56,15 +58,3 @@
 			</section>
 
 <?php include_once('inc_footer.php') ?>
-
-#### 
-
-
-
-#### 
-
-
-
-#### 
-
-
