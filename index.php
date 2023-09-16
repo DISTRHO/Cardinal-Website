@@ -21,7 +21,7 @@ include_once('inc_header.php')
 						<h2>A fully free and self-contained modular synthesizer
 						<br />
 						based on the popular <a href="https://vcvrack.com/" target="_blank">VCV Rack</a></h2>
-						<p>Available as AU, CLAP, LV2, VST2, VST3 and Standalone audio plugin for FreeBSD, Linux, macOS, Windows and the Web.</p>
+						<p>Available in AudioUnit/CLAP/LV2/VST2/VST3 plugin formats and as a standalone app for FreeBSD, Linux, macOS, Windows and the Web.</p>
 					</header>
 				</section>
 
@@ -30,7 +30,7 @@ include_once('inc_header.php')
 						<section>
 							<span class="icon major brands fa-osi accent3"></span>
 							<h3>Open-Source</h3>
-							<p>Created first and foremost as a way to have Rack as a proper open-source audio plugin.</p>
+							<p>Created first and foremost as a way to have Rack as a conventional open-source audio plugin.</p>
 						</section>
 						<section>
 							<span class="icon major solid fa-box accent4"></span>
