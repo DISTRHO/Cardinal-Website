@@ -29,7 +29,10 @@
 <li><a href="https://github.com/catronomix/catro-modulo" target="_blank">Catro/Modulo</a></li>
 <li><a href="https://github.com/cfoulc/cf" target="_blank">cf</a></li>
 <li><a href="https://github.com/jatinchowdhury18/ChowDSP-VCV" target="_blank">ChowDSP</a></li>
+<li><a href="https://github.com/freddyz/computerscare-vcv-modules.git" target="_blank">Computerscare</a></li>
+<li><a href="https://github.com/codygeary/CVfunk-Modules.git" target="_blank">CVfunk</a></li>
 <li><a href="https://github.com/dBiz/dBiz" target="_blank">dBiz</a></li>
+<li><a href="https://github.com/dhemery/DHE-Modules.git" target="_blank">DHE Modules</a></li>
 <li><a href="https://svmodular.com/plugin/vcv/drumkit.html" target="_blank">DrumKit</a></li>
 <li><a href="https://github.com/EnigmaCurry/EnigmaCurry-vcv-pack" target="_blank">EnigmaCurry</a></li>
 <li><a href="https://github.com/VCVRack/ESeries" target="_blank">E-Series</a></li>
@@ -72,6 +75,7 @@
 <li><a href="https://github.com/wiqid/repelzen" target="_blank">repelzen</a></li>
 <li><a href="https://github.com/cosinekitty/sapphire" target="_blank">Sapphire</a></li>
 <li><a href="https://gitlab.com/sonusdept/sonusmodular" target="_blank">Sonus Modular</a></li>
+<li><a href="https://github.com/starlingcode/Via-for-Rack.git" target="_blank">Starling Via</a></li>
 <li><a href="https://github.com/aptrn/stocaudio-modules" target="_blank">stocaudio</a></li>
 <li><a href="https://github.com/stoermelder/vcvrack-packone" target="_blank">Stoermelder Pack-One</a></li>
 <li><a href="https://github.com/surge-synthesizer/surge-rack" target="_blank">Surge XT</a></li>
