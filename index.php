@@ -57,8 +57,8 @@ include_once('inc_header.php')
 
 						<section class="box special">
 							<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
-							<h3>1193 included modules</h3>
-							<p>A total of 1193 modules from 77 different authors/brands.</p>
+							<h3>1219 included modules</h3>
+							<p>A total of 1219 modules from 79 different authors/brands.</p>
 							<ul class="actions special">
 								<li><a href="/modules" class="button alt">Learn more</a></li>
 							</ul>

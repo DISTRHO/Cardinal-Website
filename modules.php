@@ -25,6 +25,7 @@
 <li><a href="https://github.com/baconpaul/BaconPlugs" target="_blank">Bacon Music</a></li>
 <li><a href="https://github.com/VCVRack/Befaco" target="_blank">Befaco</a></li>
 <li><a href="https://github.com/sebastien-bouffier/Bidoo" target="_blank">Bidoo</a></li>
+<li><a href="https://github.com/gibbonjoyeux/VCV-Biset" target="_blank">Biset</a></li>
 <li><a href="https://github.com/bogaudio/BogaudioModules" target="_blank">Bogaudio</a></li>
 <li><a href="https://github.com/catronomix/catro-modulo" target="_blank">Catro/Modulo</a></li>
 <li><a href="https://github.com/cfoulc/cf" target="_blank">cf</a></li>
@@ -68,6 +69,7 @@
 <li><a href="https://github.com/RareBreeds/Orbits" target="_blank">Orbits</a></li>
 <li><a href="https://github.com/adbrant/ArableInstruments" target="_blank">Parable Instruments</a></li>
 <li><a href="https://github.com/patheros/PathSetModules" target="_blank">Path Set</a></li>
+<li><a href="https://github.com/mgunyho/PdArray" target="_blank">PdArray</a></li>
 <li><a href="https://github.com/VegaDeftwing/PinkTromboneVCV" target="_blank">PinkTrombone</a></li>
 <li><a href="https://github.com/SteveRussell33/Prism" target="_blank">Prism</a></li>
 <li><a href="https://github.com/n0jo/rackwindows" target="_blank">rackwindows</a></li>
