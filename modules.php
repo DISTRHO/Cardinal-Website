@@ -73,6 +73,7 @@
 <li><a href="https://github.com/VegaDeftwing/PinkTromboneVCV" target="_blank">PinkTrombone</a></li>
 <li><a href="https://github.com/SteveRussell33/Prism" target="_blank">Prism</a></li>
 <li><a href="https://github.com/n0jo/rackwindows" target="_blank">rackwindows</a></li>
+<li><a href="https://github.com/Rcomian/rcm-modules" target="_blank">RCM</a></li>
 <li><a href="https://github.com/hemmer/rebel-tech-vcv" target="_blank">RebelTech</a></li>
 <li><a href="https://github.com/wiqid/repelzen" target="_blank">repelzen</a></li>
 <li><a href="https://github.com/cosinekitty/sapphire" target="_blank">Sapphire</a></li>
