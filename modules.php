@@ -86,6 +86,7 @@
 <li><a href="https://github.com/surge-synthesizer/surge-rack" target="_blank">Surge XT</a></li>
 <li><a href="https://gitlab.com/unlessgames/unless_modules" target="_blank">unless_modules</a></li>
 <li><a href="https://github.com/ValleyAudio/ValleyRackFree" target="_blank">Valley</a></li>
+<li><a href="https://github.com/DaveBenham/VenomModules" target="_blank">Venom</a></li>
 <li><a href="https://github.com/clone45/voxglitch" target="_blank">Voxglitch</a></li>
 <li><a href="https://github.com/korfuri/WhatTheRack" target="_blank">WhatTheRack</a></li>
 <li><a href="https://github.com/Wasted-Audio/WSTD-Drums" target="_blank">WSTD-Drums</a></li>

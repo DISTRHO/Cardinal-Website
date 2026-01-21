@@ -26,6 +26,13 @@
 							If you are unable to connect, make sure your OS network firewall settings allows opening port 2228.</p>
 						</div>
 						<div class="row-6 row-12-mobilep">
+							<h3>Automatic startup on headless builds</h3>
+							<p>If you do a headless build there is no UI to click on to enable remote control, so for this reason the headless builds (standalone, not plugins) will have OSC remote control enabled by default.</p>
+							<p>To change the port for the OSC server use the <code>CARDINAL_REMOTE_HOST_PORT</code> environment variable, for example:</p>
+							<p><code>env CARDINAL_REMOTE_HOST_PORT=2228 CardinalNative</code></p>
+							<p>This can be useful for starting Cardinal where no mouse/keyboard are attached but you want remote control.</p>
+						</div>
+						<div class="row-6 row-12-mobilep">
 							<h3>TouchOSC example setup</h3>
 							<p>A TouchOSC compatible file is available <a href="https://github.com/DISTRHO/Cardinal/raw/main/patches/touchosc/24-direct-fader-params.tosc">here</a>.</p>
 							<p>It maps Cardinal's 24 parameters into 3 pages of sliders, 8 per page, each with a different color.<br />

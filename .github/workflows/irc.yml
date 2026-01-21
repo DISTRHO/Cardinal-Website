@@ -1,0 +1,21 @@
+name: irc
+
+on: [push, pull_request]
+
+jobs:
+  notification:
+    runs-on: ubuntu-latest
+    name: IRC notification
+    steps:
+      - name: Format message
+        run: |
+          echo commitmessage=$(echo "${{ github.event.commits[0].message }}" | head -n 1) >> $GITHUB_ENV
+      - name: Format message
+        run: |
+          echo message="${{ github.actor }} pushed ${{ env.commitmessage }} ${{ github.event.commits[0].url }}" >> $GITHUB_ENV
+      - name: IRC notification
+        uses: Gottox/irc-message-action@v2
+        with:
+          channel: '#cardinal'
+          nickname: github-event-bot
+          message: ${{ env.message }}
