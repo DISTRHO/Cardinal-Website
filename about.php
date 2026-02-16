@@ -21,9 +21,10 @@
 							<p>Cardinal should be considered stable, if you spot any bugs please report them on GitHub.<br>
 							Currently the following should be noted:</p>
 							<ul>
-							<li>CLAP support is a work-in-progress <a href="https://github.com/DISTRHO/DPF/issues/383" target="_blank">DPF#383</a></li>
-							<li>VST3 plugin hosting (inside Carla or Ildaeil modules) mostly works but is considered experimental</li>
-							<li>Windows 32bit builds still have a few problematic modules <a href="https://github.com/DISTRHO/Cardinal/issues/80" target="_blank">#80</a></li>
+								<li><a href="https://github.com/DISTRHO/Cardinal/issues/854#issuecomment-3234751096" target="_blank">Set an environment variable</a> to run Cardinal under WINE on Linux</li>
+							    <li>CLAP support is a work-in-progress <a href="https://github.com/DISTRHO/DPF/issues/383" target="_blank">DPF#383</a></li>
+							    <li>VST3 plugin hosting (inside Carla or Ildaeil modules) mostly works but is considered experimental</li>
+							    <li>Windows 32bit builds still have a few problematic modules <a href="https://github.com/DISTRHO/Cardinal/issues/80" target="_blank">#80</a></li>
 							</ul>
 						</div>
 						<div class="row-6 row-12-mobilep" id="Why">
